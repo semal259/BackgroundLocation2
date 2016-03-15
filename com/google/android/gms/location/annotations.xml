@@ -1,0 +1,5 @@
+<root>
+  <item name='com.google.android.gms.location.LocationServices FusedLocationApi'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
